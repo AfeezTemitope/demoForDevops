@@ -71,4 +71,3 @@ jobs:
           -t ${{ env.DOCKER_HUB_REPO }}:latest \
           -t ${{ env.DOCKER_HUB_REPO }}:$GITHUB_SHA \
           --push .
-parameter to localhost · AfeezTemitope/learnDevops@4b72ffc  
